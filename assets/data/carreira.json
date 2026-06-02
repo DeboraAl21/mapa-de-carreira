@@ -1,78 +1,83 @@
 {
   "seo": {
-    "title": "Sarah Lima | Mapa de Carreira em Tecnologia",
-    "description": "Mapa de carreira de Sarah Lima, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
-    "author": "Sarah Liima",
+    "title": "Débora Alves | Mapa de Carreira em Tecnologia",
+    "description": "Mapa de carreira de Débora Alves, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "author": "Débora Alves da Silva",
     "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
   },
   "profile": {
-    "name": "Sarah Lima",
-    "headline": "Educacao, Web e Gestao de TI",
+    "name": "Débora Alves da Silva",
+    "headline": "Desenvolvimento de Sistemas, Games e Design Digital",
     "photo": "assets/images/profile.jpg",
-    "photoAlt": "Foto profissional de Sarah Lima",
-    "summary": "Tenho experiencia em desenvolvimento web, educacao e gestao de tecnologia. Participei de projetos que transformaram ideias em solucoes digitais e agora organizo meu mapa de carreira com foco em aprendizagem continua, colaboracao e impacto profissional.",
+    "photoAlt": "Foto profissional de Débora Alves",
+    "summary": "Sou estudante da área de tecnologia cursando Desenvolvimento de Sistemas e participação em projetos de desenvolvimento web e mobile, banco de dados e criação de jogos. Tenho interesse em desenvolvimento de interfaces, design digital, pixel art, animação e desenvolvimento de jogos. Meu objetivo é construir uma carreira que una tecnologia, criatividade e inovação, contribuindo para a criação de experiências digitais significativas.",
     "cvUrl": "#"
   },
   "contacts": [
     {
-      "label": "sarah.lima@example.com",
-      "url": "mailto:sarah.lima@example.com"
+      "label": "deboraalves.asilva@hotmail.com",
+      "url": "mailto:deboraalves.asilva@hotmail.com"
     },
     {
-      "label": "linkedin.com/in/sarahlima",
-      "url": "https://www.linkedin.com/in/sarahlima"
+      "label": "linkedin.com/in/déboraal",
+      "url": "https://www.linkedin.com/in/déboraal"
     },
     {
-      "label": "github.com/sarahlima",
-      "url": "https://github.com/sarahlima"
+      "label": "github.com/DeboraAl21",
+      "url": "https://github.com/DeboraAl21"
     }
   ],
   "careerSteps": [
     {
       "title": "Desenvolvedora Junior",
-      "description": "Consolidar fundamentos de desenvolvimento web, versionamento, acessibilidade, logica de programacao e boas praticas de comunicacao em equipe.",
+      "description": "Consolidar conhecimentos em desenvolvimento Web/Mobile, banco de dados, logica de programação e boas praticas de desenvolvimento para iniciar minha carreira na área de tecnologia.",
       "softSkills": [
-        "Comunicacao clara para pedir ajuda e registrar aprendizados.",
-        "Organizacao para estudar, praticar e acompanhar tarefas.",
-        "Curiosidade para investigar problemas e testar solucoes."
+        "Organização para equilibrar estudos, projetos e trabalho.",
+        "Comunicação para colaborar melhor em equipes.",
+        "Aprendizagem continua para acompanhar novas tecnologias."
       ],
       "roadmap": [
-        "HTML semantico",
-        "CSS responsivo",
+        "HTML",
+        "CSS",
         "JavaScript",
+        "Kotlin",
         "Git e GitHub",
-        "Acessibilidade"
+        "Banco de Dados",
+        "Desenvolvimento Web e Mobile"
       ]
     },
     {
-      "title": "Desenvolvedora Pleno",
-      "description": "Atuar com mais autonomia, participar de decisoes tecnicas e entregar funcionalidades com qualidade, testes e documentacao.",
+      "title": "Desenvolvedora Front-end",
+      "description": "Especializar-me na criação de interfaces intuitivas, acessíveis e visualmente atrativas, unindo conhecimentos técnicos e criativos.",
       "softSkills": [
-        "Responsabilidade sobre entregas e prazos combinados.",
-        "Colaboracao em revisoes de codigo e planejamento.",
-        "Capacidade de explicar escolhas tecnicas para diferentes publicos."
+        "Atenção aos detalhes na construção de interfaces.",
+        "Empatia para compreender as necessidades dos usuários.",
+        "Criatividade para propor soluções inovadoras."
       ],
       "roadmap": [
         "React",
-        "Node.js",
-        "APIs REST",
-        "Testes automatizados",
-        "Banco de dados"
+        "UX/UI Design",
+        "Figma",
+        "Acessibilidade",
+        "Design Responsivo",
+        "Consumo de APIs"
       ]
     },
     {
-      "title": "Lideranca tecnica",
-      "description": "Contribuir para padroes de arquitetura, orientar pessoas em desenvolvimento e apoiar a tomada de decisao tecnica com base em dados e contexto.",
+      "title": "Game Designer e Desenvolvedora de Jogos",
+      "description": "Participar da criação de jogos desenvolvendo interfaces, personagens, cenários e experiencias interativas que unam tecnologia e criatividade.",
       "softSkills": [
-        "Mentoria com escuta ativa e feedback construtivo.",
-        "Priorizacao entre impacto, custo, risco e aprendizado.",
-        "Visao sistemica sobre produto, pessoas e tecnologia."
+        "Criatividade para desenvolvimento de ideias e narrativas.",
+        "Trabalho em equipe para produção de projetos.",
+        "Planejamento e organização de processos criativos."
       ],
       "roadmap": [
-        "Arquitetura de software",
-        "Cloud",
-        "Observabilidade",
-        "Seguranca"
+        "Game Design",
+        "Pixel Art",
+        "Unity ou Godot",
+        "Animação 2D",
+        "Narrativa para Jogos",
+        "Design de Personagens"
       ]
     }
   ],
@@ -81,21 +86,34 @@
       "title": "Frontend",
       "skills": [
         {
-          "name": "HTML, CSS e JavaScript",
+          "name": "HTML e CSS",
           "level": 85
         },
         {
-          "name": "React",
+          "name": "JavaScript",
           "level": 70
         }
       ]
     },
     {
-      "title": "Backend e dados",
+      "title": "Games e Design",
       "skills": [
         {
-          "name": "Node.js e APIs",
-          "level": 65
+          "name": "Pixel Art e Ilustração Digital",
+          "level": 90
+        },
+        {
+          "name": "Criação de Interfaces",
+          "level": 85
+        }
+      ]
+    },
+    {
+      "title": "Banco de Dados",
+      "skills": [
+        {
+          "name": "Modelagem de Dados",
+          "level": 75
         },
         {
           "name": "SQL",
@@ -106,22 +124,18 @@
   ],
   "otherSkills": [
     "Git",
-    "Comunicacao",
-    "Documentacao",
-    "Code review"
+    "Criatividade",
+    "Desenho Digital",
+    "Pixel Art",
+    "Comunicação",
+    "Organização",
+    "Resolução de Problemas",
+    "Atenção aos Detalhes"
   ],
   "languages": [
     {
-      "name": "Portugues",
+      "name": "Português",
       "level": "Nativo"
-    },
-    {
-      "name": "Ingles",
-      "level": "Tecnico"
-    },
-    {
-      "name": "Espanhol",
-      "level": "Profissional"
     }
   ]
 }
