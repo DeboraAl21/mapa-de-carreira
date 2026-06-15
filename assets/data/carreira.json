@@ -1,17 +1,17 @@
 {
   "seo": {
     "title": "Débora Alves | Mapa de Carreira em Tecnologia",
-    "description": "Mapa de carreira de Débora Alves, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "description": "Mapa de carreira de Débora Alves, com objetivos profissionais, trilha de aprendizagem, habilidades e contatos.",
     "author": "Débora Alves da Silva",
     "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
   },
   "profile": {
     "name": "Débora Alves da Silva",
-    "headline": "Desenvolvimento de Sistemas, Games e Design Digital",
+    "headline": "Tecnologia, UX Design, Game Design e Narrativa Interativa",
     "photo": "assets/images/profile.jpg",
-    "photoAlt": "Foto profissional de Débora Alves",
-    "summary": "Sou estudante da área de tecnologia cursando Desenvolvimento de Sistemas e participação em projetos de desenvolvimento web e mobile, banco de dados e criação de jogos. Tenho interesse em desenvolvimento de interfaces, design digital, pixel art, animação e desenvolvimento de jogos. Meu objetivo é construir uma carreira que una tecnologia, criatividade e inovação, contribuindo para a criação de experiências digitais significativas.",
-    "cvUrl": "assets/cv/curriculo-DeboraAlves.pdf"
+    "photoAlt": "Foto profissional de Sarah Lima",
+    "summary": "Sou estudante da área de tecnologia cursando Desenvolvimento de Sistemas, com experiência acadêmica em desenvolvimento web e mobile, banco de dados e criação de jogos. Tenho interesse em UX/UI Design, pesquisa com usuários, game design, narrativa interativa, design digital e animação. Busco construir uma carreira que integre tecnologia, criatividade e estratégia, contribuindo para o desenvolvimento de experiências digitais inovadoras e, futuramente, atuando em posições de liderança criativa na indústria de jogos e produtos digitais.",
+    "cvUrl": "#"
   },
   "contacts": [
     {
@@ -27,115 +27,186 @@
       "url": "https://github.com/DeboraAl21"
     }
   ],
-  "careerSteps": [
-    {
-      "title": "Desenvolvedora Junior",
-      "description": "Consolidar conhecimentos em desenvolvimento Web/Mobile, banco de dados, logica de programação e boas praticas de desenvolvimento para iniciar minha carreira na área de tecnologia.",
-      "softSkills": [
-        "Organização para equilibrar estudos, projetos e trabalho.",
-        "Comunicação para colaborar melhor em equipes.",
-        "Aprendizagem continua para acompanhar novas tecnologias."
-      ],
-      "roadmap": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Kotlin",
-        "Git e GitHub",
-        "Banco de Dados",
-        "Desenvolvimento Web e Mobile"
-      ]
-    },
-    {
-      "title": "Desenvolvedora Front-end",
-      "description": "Especializar-me na criação de interfaces intuitivas, acessíveis e visualmente atrativas, unindo conhecimentos técnicos e criativos.",
-      "softSkills": [
-        "Atenção aos detalhes na construção de interfaces.",
-        "Empatia para compreender as necessidades dos usuários.",
-        "Criatividade para propor soluções inovadoras."
-      ],
-      "roadmap": [
-        "React",
-        "UX/UI Design",
-        "Figma",
-        "Acessibilidade",
-        "Design Responsivo",
-        "Consumo de APIs"
-      ]
-    },
-    {
-      "title": "Game Designer e Desenvolvedora de Jogos",
-      "description": "Participar da criação de jogos desenvolvendo interfaces, personagens, cenários e experiencias interativas que unam tecnologia e criatividade.",
-      "softSkills": [
-        "Criatividade para desenvolvimento de ideias e narrativas.",
-        "Trabalho em equipe para produção de projetos.",
-        "Planejamento e organização de processos criativos."
-      ],
-      "roadmap": [
-        "Game Design",
-        "Pixel Art",
-        "Unity ou Godot",
-        "Animação 2D",
-        "Narrativa para Jogos",
-        "Design de Personagens"
-      ]
-    }
-  ],
-  "skillGroups": [
-    {
-      "title": "Frontend",
-      "skills": [
-        {
-          "name": "HTML e CSS",
-          "level": 85
-        },
-        {
-          "name": "JavaScript",
-          "level": 70
-        }
-      ]
-    },
-    {
-      "title": "Games e Design",
-      "skills": [
-        {
-          "name": "Pixel Art e Ilustração Digital",
-          "level": 90
-        },
-        {
-          "name": "Criação de Interfaces",
-          "level": 85
-        }
-      ]
-    },
-    {
-      "title": "Banco de Dados",
-      "skills": [
-        {
-          "name": "Modelagem de Dados",
-          "level": 75
-        },
-        {
-          "name": "SQL",
-          "level": 60
-        }
-      ]
-    }
-  ],
-  "otherSkills": [
-    "Git",
-    "Criatividade",
-    "Desenho Digital",
-    "Pixel Art",
-    "Comunicação",
-    "Organização",
-    "Resolução de Problemas",
-    "Atenção aos Detalhes"
-  ],
-  "languages": [
-    {
-      "name": "Português",
-      "level": "Nativo"
-    }
-  ]
+  
+"careerSteps": [
+{
+"title": "Desenvolvedora Junior",
+"description": "Consolidar conhecimentos em desenvolvimento Web/Mobile, banco de dados, lógica de programação e boas práticas de desenvolvimento para iniciar minha carreira na área de tecnologia.",
+"softSkills": [
+"Organização para equilibrar estudos, projetos e trabalho.",
+"Comunicação para colaborar melhor em equipes.",
+"Aprendizagem contínua para acompanhar novas tecnologias."
+],
+"roadmap": [
+"HTML",
+"CSS",
+"JavaScript",
+"Kotlin",
+"Git e GitHub",
+"Banco de Dados",
+"Desenvolvimento Web e Mobile"
+]
+},
+{
+"title": "UI/UX Designer",
+"description": "Desenvolver interfaces intuitivas, acessíveis e visualmente atrativas, focadas na melhor experiência para os usuários.",
+"softSkills": [
+"Empatia para compreender necessidades dos usuários.",
+"Criatividade para solucionar problemas.",
+"Atenção aos detalhes na construção de interfaces."
+],
+"roadmap": [
+"Figma",
+"Design Responsivo",
+"Design Systems",
+"Acessibilidade",
+"Prototipação",
+"UX Writing"
+]
+},
+{
+"title": "UX Researcher",
+"description": "Pesquisar e compreender o comportamento dos usuários para criar produtos digitais mais eficientes e alinhados às suas necessidades.",
+"softSkills": [
+"Escuta ativa.",
+"Pensamento analítico.",
+"Comunicação para apresentação de resultados."
+],
+"roadmap": [
+"Pesquisa Qualitativa",
+"Pesquisa Quantitativa",
+"Entrevistas com Usuários",
+"Jornadas do Usuário",
+"Testes de Usabilidade",
+"Análise de Dados"
+]
+},
+{
+"title": "Game Designer",
+"description": "Projetar mecânicas, sistemas, desafios e experiências de jogo que proporcionem diversão, engajamento e uma experiência significativa aos jogadores.",
+"softSkills": [
+"Criatividade para desenvolver mecânicas e conceitos.",
+"Trabalho em equipe com artistas, roteiristas e desenvolvedores.",
+"Pensamento analítico para balanceamento de sistemas.",
+"Resolução de problemas."
+],
+"roadmap": [
+"Game Design",
+"Level Design",
+"Prototipação",
+"Documentação de Jogos (GDD)",
+"Unity ou Godot",
+"Balanceamento de Mecânicas"
+]
+},
+{
+"title": "Narrative Designer",
+"description": "Criar histórias, personagens, diálogos e elementos narrativos que fortaleçam a experiência dos jogadores dentro do universo do jogo.",
+"softSkills": [
+"Escrita criativa.",
+"Comunicação.",
+"Organização de narrativas complexas."
+],
+"roadmap": [
+"Storytelling",
+"Roteirização",
+"Construção de Personagens",
+"Narrativa Interativa",
+"Worldbuilding",
+"Design de Missões"
+]
+},
+{
+"title": "Creative Director",
+"description": "Liderar a visão criativa de projetos digitais e jogos, coordenando equipes de design, narrativa, arte e desenvolvimento para garantir experiências inovadoras e consistentes.",
+"softSkills": [
+"Liderança.",
+"Gestão de equipes.",
+"Visão estratégica.",
+"Tomada de decisões.",
+"Comunicação interpessoal."
+],
+"roadmap": [
+"Direção Criativa",
+"Gestão de Projetos",
+"Liderança de Equipes",
+"Design Thinking",
+"Estratégia de Produto",
+"Produção de Jogos"
+]
+},
+{
+"title": "Narrative Director",
+"description": "Definir e supervisionar a direção narrativa de projetos, garantindo a qualidade, consistência e impacto emocional das histórias desenvolvidas.",
+"softSkills": [
+"Liderança criativa.",
+"Gestão de equipes multidisciplinares.",
+"Pensamento estratégico.",
+"Tomada de decisões."
+],
+"roadmap": [
+"Narrativas Complexas",
+"Direção de Equipes Criativas",
+"Produção de Conteúdo",
+"Storytelling Avançado",
+"Gestão de Projetos",
+"Estratégia Narrativa"
+]
+}
+],
+
+"skillGroups": [
+{
+"title": "Frontend",
+"skills": [
+{
+"name": "HTML e CSS",
+"level": 85
+},
+{
+"name": "JavaScript",
+"level": 70
+}
+]
+},
+{
+"title": "Design, UX e Games",
+"skills": [
+{
+"name": "Criação de Interfaces",
+"level": 85
+},
+{
+"name": "Pixel Art e Ilustração Digital",
+"level": 90
+}
+]
+},
+{
+"title": "Banco de Dados",
+"skills": [
+{
+"name": "Modelagem de Dados",
+"level": 75
+},
+{
+"name": "SQL",
+"level": 60
+}
+]
+}
+],
+
+"otherSkills": [
+"Git",
+"Criatividade",
+"Comunicação",
+"Organização",
+"Resolução de Problemas",
+"Atenção aos Detalhes",
+"Desenho Digital",
+"Documentação",
+"Storytelling",
+"Trabalho em Equipe"
+]
 }
